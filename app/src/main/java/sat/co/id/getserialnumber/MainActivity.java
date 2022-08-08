@@ -22,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
         Log.d("TAG", "android_id: "+android_id);
         Log.d("TAG", "serialNumber: "+getSerialNumber());
     }
+    
+    /// tambah cuuy
+    
     public static String getSerialNumber() {
         String serialNumber;
 
